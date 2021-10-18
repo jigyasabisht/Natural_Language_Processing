@@ -12,6 +12,7 @@
 ### Stemming in NLP     
 - It is the process of reducing a word to its word stem that affixes to suffixes and prefixes or to the roots of words known as a lemma.    
 -  For example, the stem of the words eating, eats, eaten is eat.   
+-  For stemming PorterStemmer Library is used.
 
 ### Lemmatization in NLP      
  - Lemmatization usually refers to doing things properly with the use of a vocabulary and morphological analysis of words.   
